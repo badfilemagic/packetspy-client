@@ -1,4 +1,4 @@
-package main
+package packetspy_client
 
 import (
 	"encoding/hex"
